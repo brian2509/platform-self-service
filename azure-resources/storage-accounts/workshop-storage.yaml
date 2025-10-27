@@ -1,7 +1,7 @@
 apiVersion: storage.azure.com/v1api20230101
 kind: StorageAccount
 metadata:
-  name: workshopstorageuniqueid
+  name: workshopstoragebrian382137127
   namespace: default
 spec:
   location: swedencentral
