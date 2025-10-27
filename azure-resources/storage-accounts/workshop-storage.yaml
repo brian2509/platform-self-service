@@ -12,5 +12,4 @@ spec:
     name: workshop-rg-brian
   accessTier: Hot
   tags:
-    environment: workshop
-    managed-by: azure-service-operator
+    owner: brian

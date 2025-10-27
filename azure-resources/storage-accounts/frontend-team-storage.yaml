@@ -12,6 +12,4 @@ spec:
     name: frontend-team-rg-brian
   accessTier: Hot
   tags:
-    environment: dev
-    team: frontend
-    managed-by: azure-service-operator
+    owner: brian
