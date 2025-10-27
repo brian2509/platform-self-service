@@ -9,7 +9,7 @@ spec:
   sku:
     name: Standard_LRS
   owner:
-    name: frontend-team-rg-brian
+    name: frontend-team-rg-brian-2
   accessTier: Hot
   tags:
     owner: brian

@@ -9,7 +9,7 @@ spec:
   sku:
     name: Standard_LRS
   owner:
-    name: workshop-rg-brian
+    name: workshop-rg-brian-2
   accessTier: Hot
   tags:
     owner: brian
