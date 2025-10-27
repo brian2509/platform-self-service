@@ -1,7 +1,7 @@
 apiVersion: storage.azure.com/v1api20230101
 kind: StorageAccount
 metadata:
-  name: frontendstoragebrian3213718
+  name: frontendstoragebrian321
   namespace: devops-frontend-dev
 spec:
   location: swedencentral
