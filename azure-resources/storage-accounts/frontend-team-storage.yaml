@@ -9,7 +9,7 @@ spec:
   sku:
     name: Standard_LRS
   owner:
-    name: frontend-team-rg
+    name: frontend-team-rg-brian
   accessTier: Hot
   tags:
     environment: dev
