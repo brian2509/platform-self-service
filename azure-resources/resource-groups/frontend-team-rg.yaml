@@ -6,7 +6,4 @@ metadata:
 spec:
   location: swedencentral
   tags:
-    environment: dev
-    team: frontend
-    managed-by: azure-service-operator
-    workshop: platform-engineering
+    owner: brian
